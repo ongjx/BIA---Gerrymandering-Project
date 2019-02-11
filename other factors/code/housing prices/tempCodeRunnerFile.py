@@ -1,0 +1,1 @@
+room = input('Enter no of rooms: ') + ' ROOM'
